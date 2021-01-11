@@ -16,3 +16,4 @@ setuptools>=18.0
 wheel
 apache-beam==2.19.0
 cython==0.29.16
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
