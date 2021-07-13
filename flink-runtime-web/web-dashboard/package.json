@@ -21,7 +21,7 @@
     "@angular/router": "~7.2.0",
     "@antv/g2": "^3.4.10",
     "core-js": "^2.5.4",
-    "d3": "^5.9.1",
+    "d3": "^7.0.0",
     "dagre": "^0.8.4",
     "monaco-editor": "^0.16.0",
     "ng-zorro-antd": "^7.2.0",
@@ -30,7 +30,7 @@
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.13.0",
+    "@angular-devkit/build-angular": "~0.800.0",
     "@angular/cli": "~7.3.5",
     "@angular/compiler-cli": "~7.2.0",
     "@angular/language-service": "~7.2.0",
