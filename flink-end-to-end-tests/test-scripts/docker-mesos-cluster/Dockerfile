@@ -18,7 +18,7 @@
 
 # Creates Mesos cluster on Docker
 
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210416
 
 RUN echo "deb http://repos.mesosphere.io/ubuntu/ xenial main" > /etc/apt/sources.list.d/mesosphere.list && \
   apt-key adv --keyserver keyserver.ubuntu.com --recv E56151BF && \
