@@ -75,6 +75,6 @@ under the License.
 		<!-- When updating Janino, make sure that Calcite supports it as well. -->
 		<janino.version>3.0.9</janino.version>
 		<calcite.version>1.22.0</calcite.version>
-		<guava.version>19.0</guava.version>
+		<guava.version>30.0-android</guava.version>
 	</properties>
 </project>
