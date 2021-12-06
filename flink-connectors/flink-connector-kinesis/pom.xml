@@ -98,7 +98,7 @@ under the License.
 		<dependency>
 			<groupId>com.amazonaws</groupId>
 			<artifactId>aws-java-sdk-kinesis</artifactId>
-			<version>${aws.sdk.version}</version>
+			<version>1.12.85</version>
 		</dependency>
 
 		<dependency>
